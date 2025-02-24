@@ -8,7 +8,7 @@ A handy tool I wrote to deobfuscate batch scripts that used environment variable
   This sample uses an obfuscated batch script to deobfuscate an AutoIt script and its interpreter.
 
   ### Before:
-    ![image](https://github.com/user-attachments/assets/82875e34-4464-4270-9543-8a4cf45d750f)
+    ![image](images/before.png)
 
   ### After: You can clearly see the next stage
-    ![image](https://github.com/user-attachments/assets/4dcf0d49-170c-46cb-94a8-a6f57243caca)
+    ![image](images/after.png)
